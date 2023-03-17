@@ -1,13 +1,12 @@
 # NFT Marketplace
 
-## 概要
-- Dapps の学習用プロジェクト。
+A NFT marketplace created for learning DApps.
 
-## 学んだこと
-- Solidity でのスマートコントラクト実装方法。
-- Hardhat の使い方。
-- IPFS クライアントの使い方。
-- Ethers.js の使い方。
+## What I learned
+- How to implement smart contracts using Solidity.
+- How to use Hardhat.
+- How to use IPFS client.
+- How to use Ethers.js.
 
-## 参考資料
+## References
 - https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
